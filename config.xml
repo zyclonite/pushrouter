@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <server>
+        <bind>0.0.0.0</bind>
+        <port>8080</port>
+        <worker>20</worker>
+        <accesslogs>false</accesslogs>
+        <logdir>./</logdir>
+        <listenerthreads>2</listenerthreads>
+    </server>
+</config>
